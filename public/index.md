@@ -1,8 +1,8 @@
 
 # Eagle Projects 
 
-Content to be added soon
+* [Documents](docs)
 
 ----
-Copyright 2023 - catonsville scout troop 306
+Copyright 2023-2024 (c) - catonsville scout troop 306
 

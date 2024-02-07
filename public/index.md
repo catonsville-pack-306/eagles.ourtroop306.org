@@ -1,8 +1,7 @@
 
 # Eagle Projects 
 
-* [Documents](docs)
+# Documents
 
-----
-Copyright 2023-2024 (c) - Troop 306 of Catonsville, Md
+* [Documents](docs)
 

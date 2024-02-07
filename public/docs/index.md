@@ -13,32 +13,29 @@ Documents for scouts working on their Eagle Project and rank.
 
 
 ## Merit Badges
-1. [Camping][camping]
-1. [Citizenship in the Community][cit-com]
-1. [Citizenship in the Nation][cit-nat]
+1. [Camping][camping] - Harley, Jeff
+1. [Citizenship in the Community][cit-com] - Jeff
+1. [Citizenship in the Nation][cit-nat] - Jeff
 1. [Citizenship in Society][cit-soc]
 1. [Citizenship in the World][cit-wor]
-1. [Communications][communications]
-1. [Cooking][cooking]
+1. [Communications][communications] - Jeff
+1. [Cooking][cooking] - Don
 1. Pick one
-	1. [Environmental Science][env-sci]
+	1. [Environmental Science][env-sci] - Harley
 	1. [Sustainability][sustainability]
-1. [Family Life][fam-life]
+1. [Family Life][fam-life] - Jeff
 1. [First Aid][first-aid]
-1. [Personal Fitness][per-fit]
-1. [Personal Management][per-man]
+1. [Personal Fitness][per-fit] - Harley
+1. [Personal Management][per-man] - Harley
 1. Pick one:
 	1. [Lifesaving][lifesaving]
 	1. [Emergency Preparedness][emer-prep]
 1. Pick one:
-	1. [Swimming][swimming]
-	1. [Hiking][hiking]
-	1. [Cycling][cycling]
+	1. [Swimming][swimming] - Diane
+	1. [Hiking][hiking] - Eric S.
+	1. [Cycling][cycling] - Eric S.
 
-
-----
-Copyright 2024 (c) - Troop 306 of Catonsville, Md
-
+<!-- Links -->
 [guid-adv]: https://filestore.scouting.org/filestore/pdf/33088.pdf "Guide to Advancement 2021"
 
 [workbook]: https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/eagle-scout-workbook/ "Eagle Scout Service Project Workbook"

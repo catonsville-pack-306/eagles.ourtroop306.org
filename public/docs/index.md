@@ -31,7 +31,7 @@ Documents for scouts working on their Eagle Project and rank.
 	1. [Lifesaving][lifesaving]
 	1. [Emergency Preparedness][emer-prep]
 1. Pick one:
-	1. [Swimming][swimming] - Diane
+	1. [Swimming][swimming] -
 	1. [Hiking][hiking] - Eric S.
 	1. [Cycling][cycling] - Eric S.
 
@@ -47,24 +47,20 @@ Documents for scouts working on their Eagle Project and rank.
 
 <!-- Merit Badges -->
 [camping]: http://www.usscouts.org/mb/worksheets/Camping.pdf
-[cit-com]: http://www.usscouts.org/mb/worksheets/Citizenship-in-the-Community
-[cit-nat]: http://www.usscouts.org/mb/worksheets/Citizenship-in-the-Nation
-[cit-soc]: http://www.usscouts.org/mb/worksheets/Citizenship-in-Society
-[cit-wor]: http://www.usscouts.org/mb/worksheets/Citizenship-in-the-World
-[communications]: http://www.usscouts.org/mb/worksheets/Communications
-[cooking]: http://www.usscouts.org/mb/worksheets/Cooking
-[env-sci]: http://www.usscouts.org/mb/worksheets/Environmental-Science
-[sustainability]: http://www.usscouts.org/mb/worksheets/sustainability
-[fam-life]: http://www.usscouts.org/mb/worksheets/family-life
-[first-aid]: http://www.usscouts.org/mb/worksheets/First-Aid
-[per-fit]: http://www.usscouts.org/mb/worksheets/Personal-Fitness
-[per-man]: http://www.usscouts.org/mb/worksheets/Personal-Management
-[lifesaving]: http://www.usscouts.org/mb/worksheets/Lifesaving
-[emer-prep]: http://www.usscouts.org/mb/worksheets/Emergency-Preparedness
-[swimming]: http://www.usscouts.org/mb/worksheets/Swimming
-[hiking]: http://www.usscouts.org/mb/worksheets/Hiking
-[cycling]: http://www.usscouts.org/mb/worksheets/Cycling
-
-
-
-
+[cit-com]: http://www.usscouts.org/mb/worksheets/Citizenship-in-the-Community.pdf
+[cit-nat]: http://www.usscouts.org/mb/worksheets/Citizenship-in-the-Nation.pdf
+[cit-soc]: http://www.usscouts.org/mb/worksheets/Citizenship-in-Society.pdf
+[cit-wor]: http://www.usscouts.org/mb/worksheets/Citizenship-in-the-World.pdf
+[communications]: http://www.usscouts.org/mb/worksheets/Communication.pdf
+[cooking]: http://www.usscouts.org/mb/worksheets/Cooking.pdf
+[env-sci]: http://www.usscouts.org/mb/worksheets/Environmental-Science.pdf
+[sustainability]: http://www.usscouts.org/mb/worksheets/sustainability.pdf
+[fam-life]: http://www.usscouts.org/mb/worksheets/family-life.pdf
+[first-aid]: http://www.usscouts.org/mb/worksheets/First-Aid.pdf
+[per-fit]: http://www.usscouts.org/mb/worksheets/Personal-Fitness.pdf
+[per-man]: http://www.usscouts.org/mb/worksheets/Personal-Management.pdf
+[lifesaving]: http://www.usscouts.org/mb/worksheets/Lifesaving.pdf
+[emer-prep]: http://www.usscouts.org/mb/worksheets/Emergency-Preparedness.pdf
+[swimming]: http://www.usscouts.org/mb/worksheets/Swimming.pdf
+[hiking]: http://www.usscouts.org/mb/worksheets/Hiking.pdf
+[cycling]: http://www.usscouts.org/mb/worksheets/Cycling.pdf
